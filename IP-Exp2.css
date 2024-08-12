@@ -4,12 +4,16 @@
     text-align: center;
 }
 
-#head {
-    h3::first-child {
-        color:#64A6BD ;
-      }
-}
+
+h3::first-child {
+    color:#64A6BD ;
+    }
+
 
 #prideline {
     color:#F4CAE0 ;
 }
+
+#head {
+        color:#F4CAE0 ;
+      }
