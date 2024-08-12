@@ -1,0 +1,15 @@
+* {
+    background-color: #90A8C3;
+    text-color:#D7B9D5 ;
+    text-align: center;
+}
+
+#head3 {
+    h3::first-line {
+        color:#64A6BD ;
+      }
+}
+
+#prideline {
+    color:#F4CAE0 ;
+}
